@@ -48,7 +48,7 @@
 
 <h2>Github stats:</h2> 
 <p align="center">
-    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=niccolay&theme=dracula&show_icons=true&hide_border=true&count_private=true">
-    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niccolay&theme=dracula&show_icons=true&hide_border=true&layout=compact">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=niccolay&theme=dracula&hide_border=true">
+    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=niccolay&show_icons=true&count_private=true&theme=dracula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niccolay&layout=compact&hide_border=true&theme=draculat&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=niccolay&theme=dracula&hide_border=true&background=FFFFFF00">
 </p>

@@ -47,6 +47,8 @@
 
 
 <h2>Github stats:</h2> 
-
-![niccolay's Stats](https://github-readme-stats.vercel.app/api?username=niccolay&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-![niccolay's Streak](https://github-readme-streak-stats.herokuapp.com/?user=niccolay&theme=dracula&hide_border=true)
+<p align="center">
+    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=niccolay&theme=dracula&show_icons=true&hide_border=true&count_private=true">
+    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niccolay&theme=dracula&show_icons=true&hide_border=true&layout=compact">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=niccolay&theme=dracula&hide_border=true">
+</p>

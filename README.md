@@ -5,7 +5,7 @@
 - 👋 `My name`: **Niccolay**,
 - 👦 `Pronouns`: **he/him**, 
 - 🔭 `I’m currently working on`: **backend development**,
-- 🌱 `I’m currently learning`: **fastAPI**,
+- 🌱 `I’m currently learning`: **cybersecurity and backend development**,
 - ❤️ `I love`: **music**,
 - 🤝 `I’m looking to collaborate on`: **backend development**,
 - 💻 `Favorite lang`: **typescript and python**,

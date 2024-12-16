@@ -10,7 +10,7 @@
 - 💻 `Favorite lang`: **typescript and python**,
 
 }
-<imge src= "https://raw.githubusercontent.com/Niccolay/Niccolay/refs/heads/main/images/cod.jpg" alt="codeando" width="25%" height="auto" align="right">
+<img align='right' src='https://octodex.github.com/images/femalecodertocat.png' width='25%'>  
 
 <h2 align="center">My Skills Include:</h2>
 

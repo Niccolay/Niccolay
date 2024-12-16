@@ -1,4 +1,5 @@
 <h1 align="center"><b>👋 Hi there</b></h1>
+<imge src= "https://raw.githubusercontent.com/Niccolay/Niccolay/refs/heads/main/images/cod.jpg" alt="codeando" width="25%" height="auto" align="right">
 {  
 
 - 👋 `My name`: **Niccolay**,
@@ -10,7 +11,6 @@
 - 💻 `Favorite lang`: **typescript and python**,
 
 }
-<img align='right' src='https://octodex.github.com/images/femalecodertocat.png' width='25%'>  
 
 <h2 align="center">My Skills Include:</h2>
 

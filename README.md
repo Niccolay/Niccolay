@@ -1,5 +1,5 @@
 <h1 align="center"><b>👋 Hi there</b></h1>
-<imge src= "https://raw.githubusercontent.com/Niccolay/Niccolay/refs/heads/main/images/cod.jpg" alt="codeando" width="25%" height="auto" align="right">
+<image src= "https://raw.githubusercontent.com/Niccolay/Niccolay/refs/heads/main/images/cod.jpg" alt="codeando" width=300px align="right">
 {  
 
 - 👋 `My name`: **Niccolay**,

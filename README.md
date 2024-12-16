@@ -12,6 +12,8 @@
 }
 <imge src= "./images/cod.jpg" alt="codeando" width="300" align="right">
 
+<h2 align="center">My Skills Include:</h2>
+
 <h4 align="center">💻 Programming languages (and html)</h4>
 <p align="center"> 
 <img alt="Bash" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">

@@ -10,7 +10,7 @@
 - 💻 `Favorite lang`: **typescript and python**,
 
 }
-<imge src= "https://raw.githubusercontent.com/Niccolay/Niccolay/refs/heads/main/images/cod.jpg" alt="codeando" width=250px height=300px align="right">
+<imge src= "https://raw.githubusercontent.com/Niccolay/Niccolay/refs/heads/main/images/cod.jpg" alt="codeando" width="25%" height="auto" align="right">
 
 <h2 align="center">My Skills Include:</h2>
 

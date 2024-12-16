@@ -2,7 +2,7 @@
 <image src= "https://raw.githubusercontent.com/Niccolay/Niccolay/refs/heads/main/images/cod.jpg" alt="codeando" width=250px align="right">
 {  
 
-- 👋 `My name`: **Niccolay**,
+- 👋 `My name`: **Nicolas**,
 - 👦 `Pronouns`: **he/him**, 
 - 🔭 `I’m currently working on`: **backend development**,
 - 🌱 `I’m currently learning`: **cybersecurity and backend development**,

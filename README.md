@@ -3,20 +3,21 @@
 {  
 
 - 👋 `My name`: **Nicolas**,
-- 👦 `Pronouns`: **he/him**, 
-- 🔭 `I’m currently working on`: **backend development**,
-- 🌱 `I’m currently learning`: **cybersecurity and backend development**,
-- ❤️ `I love`: **music**,
-- 🤝 `I’m looking to collaborate on`: **backend development**,
-- 💻 `Favorite lang`: **typescript and python**,
+- 👦 `Pronouns`: **He/Him**, 
+- 🌱 `I’m currently learning`: **Rust and FastAPI**,
+- 🤝 `I’m looking to collaborate on`: **Backend development, cybersecurity**,
+- ❤️ `I love`: **Music**,
+- 💻 `Favorite lang`: **Python**,
+- 📚 `Enthusiastic about`: **Rust and Python**,
 
 }
 
 <h2 align="center">My Skills Include:</h2>
 
-<h4 align="center">💻 Programming languages (and html)</h4>
+<h4 align="center">💻 Programming languages (and html & css)</h4>
 <p align="center"> 
 <img alt="Bash" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+<img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
 <img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">

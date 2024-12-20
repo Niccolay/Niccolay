@@ -53,3 +53,4 @@
     <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niccolay&layout=compact&exclude_repo=form,registro,imc,ecuaciones,form1&hide_border=true&theme=draculat&bg_color=00000000&langs_count=8">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=niccolay&theme=dracula&hide_border=true&background=FFFFFF00">
 </p>
+![](https://counter-xmnz.onrender.com/views)

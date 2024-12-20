@@ -4,7 +4,7 @@
 
 - 👋 `My name`: **Nicolas**,
 - 👦 `Pronouns`: **He/Him**, 
-- 🌱 `I’m currently learning`: **Rust and FastAPI**,
+- 🌱 `I’m currently learning`: **Rust and Django**,
 - 🤝 `I’m looking to collaborate on`: **Backend development, cybersecurity**,
 - ❤️ `I love`: **Music**,
 - 💻 `Favorite lang`: **Python**,

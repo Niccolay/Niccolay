@@ -8,7 +8,7 @@
 - 🌱 `I’m currently learning`: **Rust and Django**,
 - 🤝 `I’m looking to collaborate on`: **Backend development, cybersecurity**,
 - ❤️ `I love`: **Music**,
-- 💻 `Favorite lang`: **Python**,
+- 💻 `Favorite lang`: **Typescript**,
 - 📚 `Enthusiastic about`: **Rust and Python**,
 
 }

@@ -1,4 +1,5 @@
 ![](https://counter-xmnz.onrender.com/views)
+![](https://komarev.com/ghpvc/?username=niccolay)
 <h1 align="center"><b>👋 Hi there</b></h1>
 <image src= "https://raw.githubusercontent.com/Niccolay/Niccolay/refs/heads/main/images/cod.jpg" alt="codeando" width=250px align="right">
 {  

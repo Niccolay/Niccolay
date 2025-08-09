@@ -6,13 +6,13 @@
 
 - 👋 `My name`: **Nicolas**<br><br>
   
-- 🌱 `I’m currently learning`: **Rust and Django**
+- 🌱 `I’m currently learning`: **Rust and Django**<br><br>
 
-- 🤝 `I’m looking to collaborate on`: **Backend development, cybersecurity**
+- 🤝 `I’m looking to collaborate on`: **Backend development, cybersecurity**<br><br>
 
-- 💻 `Favorite lang`: **Typescript**
+- 💻 `Favorite lang`: **Typescript**<br><br>
 
-- 📚 `Enthusiastic about`: **Rust and Python**
+- 📚 `Enthusiastic about`: **Rust and Python**<br><br>
 
 
 

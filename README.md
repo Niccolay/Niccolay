@@ -4,7 +4,7 @@
 <image src= "https://raw.githubusercontent.com/Niccolay/Niccolay/refs/heads/main/images/cod.jpg" alt="codeando" width=300px align="right">
 
 
-- 👋 `My name`: **Nicolas**<br>
+- 👋 `My name`: **Nicolas**<br><br>
   
 - 🌱 `I’m currently learning`: **Rust and Django**
 

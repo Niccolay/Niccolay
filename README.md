@@ -2,17 +2,14 @@
 ![](https://komarev.com/ghpvc/?username=niccolay&style=pixel)
 <h1 align="center"><b>👋 Hi there</b></h1>
 <image src= "https://raw.githubusercontent.com/Niccolay/Niccolay/refs/heads/main/images/cod.jpg" alt="codeando" width=250px align="right">
-{  
 
-- 👋 `My name`: **Nicolas**,
-- 👦 `Pronouns`: **He/Him**, 
+
+- 👋 `My name`: **Nicolas**, 
 - 🌱 `I’m currently learning`: **Rust and Django**,
 - 🤝 `I’m looking to collaborate on`: **Backend development, cybersecurity**,
-- ❤️ `I love`: **Music**,
 - 💻 `Favorite lang`: **Typescript**,
 - 📚 `Enthusiastic about`: **Rust and Python**,
 
-}
 
 <h2 align="center">My Skills Include:</h2>
 

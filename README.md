@@ -4,17 +4,16 @@
 <image src= "https://raw.githubusercontent.com/Niccolay/Niccolay/refs/heads/main/images/cod.jpg" alt="codeando" width=300px align="right">
 
 
-- 👋 `My name`: **Nicolas**
-
+- 👋 `My name`: **Nicolas**<br>
   
 - 🌱 `I’m currently learning`: **Rust and Django**
-  <hr style="border:none; height:20px; margin:20px 0; background:transparent;">
+
 - 🤝 `I’m looking to collaborate on`: **Backend development, cybersecurity**
-  <hr style="border:none; height:20px; margin:20px 0; background:transparent;">
+
 - 💻 `Favorite lang`: **Typescript**
-  <hr style="border:none; height:20px; margin:20px 0; background:transparent;">
+
 - 📚 `Enthusiastic about`: **Rust and Python**
-  <hr style="border:none; height:20px; margin:20px 0; background:transparent;">
+
 
 
 <h2 align="center">My Skills Include:</h2>

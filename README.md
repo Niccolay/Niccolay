@@ -5,7 +5,7 @@
 
 
 - 👋 `My name`: **Nicolas**
-  <hr style="border:none; height:20px; margin:20px 0; background:transparent;">
+  &nbsp;
 - 🌱 `I’m currently learning`: **Rust and Django**
   <hr style="border:none; height:20px; margin:20px 0; background:transparent;">
 - 🤝 `I’m looking to collaborate on`: **Backend development, cybersecurity**

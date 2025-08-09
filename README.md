@@ -5,15 +5,15 @@
 
 
 - 👋 `My name`: **Nicolas**
-  
+  <hr>
 - 🌱 `I’m currently learning`: **Rust and Django**
-  
+  <hr>
 - 🤝 `I’m looking to collaborate on`: **Backend development, cybersecurity**
-  
+  <hr>
 - 💻 `Favorite lang`: **Typescript**
-  
+  <hr>
 - 📚 `Enthusiastic about`: **Rust and Python**
-  
+  <hr>
 
 
 <h2 align="center">My Skills Include:</h2>

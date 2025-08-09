@@ -5,15 +5,15 @@
 
 
 - 👋 `My name`: **Nicolas**
-  <br>
+  <hr style="border:none; height:20px; margin:20px 0; background:transparent;">
 - 🌱 `I’m currently learning`: **Rust and Django**
-  <br>
+  <hr style="border:none; height:20px; margin:20px 0; background:transparent;">
 - 🤝 `I’m looking to collaborate on`: **Backend development, cybersecurity**
-  <br>
+  <hr style="border:none; height:20px; margin:20px 0; background:transparent;">
 - 💻 `Favorite lang`: **Typescript**
-  <br>
+  <hr style="border:none; height:20px; margin:20px 0; background:transparent;">
 - 📚 `Enthusiastic about`: **Rust and Python**
-  <br>
+  <hr style="border:none; height:20px; margin:20px 0; background:transparent;">
 
 
 <h2 align="center">My Skills Include:</h2>

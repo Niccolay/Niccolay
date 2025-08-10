@@ -12,7 +12,7 @@
 
 - 💻 `Favorite lang`: **Typescript**<br><br>
 
-- 📚 `Enthusiastic about`: **Rust and Python**<br><br>
+- 📚 `Enthusiastic about`: **Rust and Python**<br><br><br><br>
 
 
 
